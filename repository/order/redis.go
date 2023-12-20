@@ -5,9 +5,10 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"go-microservices-architecture/model"
 
 	"github.com/redis/go-redis/v9"
+
+	"go-microservices-architecture/model"
 )
 
 type RedisRepo struct {
