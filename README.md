@@ -2,7 +2,7 @@
 
 A backend microservices architecture built with Go, utilizing Redis for data storage and the Chi router for HTTP routing.
 
-## Overview
+### Overview
 
 This project demonstrates a scalable and maintainable microservices architecture in Go. It includes:
 
